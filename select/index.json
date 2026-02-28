@@ -1,0 +1,192 @@
+{
+  "version": 1,
+  "base_track": "You(=I)",
+  "base_artist": "Bolbbalgan4",
+  "createdAt": "2026-02-28T16:05:57.907989Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "These Words (I Love You, I Love You)",
+      "artist": "Natasha Bedingfield",
+      "has_synced": true,
+      "path": "select/01_These_Words_(I_Love_You,_I_Love_You)_Natasha_Bedingfield.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "You Made Me Love You (I Didn't Want To Do It) - Remastered",
+      "artist": "Nat King Cole",
+      "has_synced": true,
+      "path": "select/02_You_Made_Me_Love_You_(I_Didn't_Want_To_Do_It)_-_Remastered_Nat_King_Cole.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "You Made Me Love You (I Didn't Want To Do It) (Remastered 2003)",
+      "artist": "Nat King Cole",
+      "has_synced": true,
+      "path": "select/03_You_Made_Me_Love_You_(I_Didn't_Want_To_Do_It)_(Remastered_2003)_Nat_King_Cole.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Want You, I Need You, I Love You",
+      "artist": "Elvis Presley",
+      "has_synced": true,
+      "path": "select/04_I_Want_You,_I_Need_You,_I_Love_You_Elvis_Presley.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Told You I Could Drink (feat. Lady A)",
+      "artist": "BRELAND feat. Lady A",
+      "has_synced": true,
+      "path": "select/05_Told_You_I_Could_Drink_(feat._Lady_A)_BRELAND_feat._Lady_A.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Told You I Could Drink (feat. Lady A)",
+      "artist": "Breland",
+      "has_synced": true,
+      "path": "select/06_Told_You_I_Could_Drink_(feat._Lady_A)_Breland.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "With You I Am",
+      "artist": "Cody Johnson",
+      "has_synced": true,
+      "path": "select/07_With_You_I_Am_Cody_Johnson.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Know You, I Live You - Reprise Version",
+      "artist": "Chaka Khan",
+      "has_synced": true,
+      "path": "select/08_I_Know_You,_I_Live_You_-_Reprise_Version_Chaka_Khan.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Know You, I Live You (Reprise)",
+      "artist": "Chaka Khan",
+      "has_synced": true,
+      "path": "select/09_I_Know_You,_I_Live_You_(Reprise)_Chaka_Khan.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "You & I (feat. Jenna Pemkowski)",
+      "artist": "Dabin",
+      "has_synced": false,
+      "path": "select/10_You_&_I_(feat._Jenna_Pemkowski)_Dabin.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "You & I (feat. Jenna Pemkowski)",
+      "artist": "Dabin, Jenna Pemkowski",
+      "has_synced": false,
+      "path": "select/11_You_&_I_(feat._Jenna_Pemkowski)_Dabin,_Jenna_Pemkowski.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I'll Get You, I Mean It",
+      "artist": "Helium",
+      "has_synced": false,
+      "path": "select/12_I'll_Get_You,_I_Mean_It_Helium.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "You & I",
+      "artist": "Anouk",
+      "has_synced": true,
+      "path": "select/13_You_&_I_Anouk.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "You & I",
+      "artist": "Crystal Fighters",
+      "has_synced": true,
+      "path": "select/14_You_&_I_Crystal_Fighters.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I Told You I Was Freaky",
+      "artist": "Flight of the Conchords",
+      "has_synced": true,
+      "path": "select/15_I_Told_You_I_Was_Freaky_Flight_of_the_Conchords.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "You & I",
+      "artist": "Pat Benatar",
+      "has_synced": true,
+      "path": "select/16_You_&_I_Pat_Benatar.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "I Love You I Kill You",
+      "artist": "Enigma",
+      "has_synced": true,
+      "path": "select/17_I_Love_You_I_Kill_You_Enigma.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "You(=I)",
+      "artist": "赤頬思春期",
+      "has_synced": false,
+      "path": "select/pl_01_You(=I)_赤頬思春期.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "You(=I)",
+      "artist": "赤頬思春期",
+      "has_synced": false,
+      "path": "select/pl_02_You(=I)_赤頬思春期.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "You(=I)",
+      "artist": "赤頬思春期",
+      "has_synced": false,
+      "path": "select/pl_03_You(=I)_赤頬思春期.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "You(=I)",
+      "artist": "赤頬思春期",
+      "has_synced": false,
+      "path": "select/pl_04_You(=I)_赤頬思春期.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "You(=I)",
+      "artist": "赤頬思春期",
+      "has_synced": false,
+      "path": "select/pl_05_You(=I)_赤頬思春期.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "You(=I)",
+      "artist": "赤頬思春期",
+      "has_synced": false,
+      "path": "select/pl_06_You(=I)_赤頬思春期.txt"
+    }
+  ]
+}
